@@ -1,11 +1,17 @@
-Задание 7. Список провайдеров oAuth
+## Задание 7
+Список провайдеров oAuth
 
+**Задание выполнил:** Буряков Иван Олегович ИВТ(1)
+
+### Задание: 
 Составить список популярных oAuth провайдеров (не менее 6 примеров).
 
 * Укажите название
 * Ссылку на документацию с примерами и, при наличии playground
 * Ссылки на модули, библиотеки, cli & etc для взаимодействия с провайдеров в вашей предпочтительной экосистеме разработки.
 Приложите текстовый файл или ссылку на файл в Github
+
+### Решение:
 
 Ниже представлен список популярных oAuth провайдеров в виде таблицы с указанием названия, ссылки на документацию с примерами и, при наличии, песочницы, а также ссылок на модули, библиотеки и инструменты для взаимодействия с провайдерами:
 
@@ -18,6 +24,3 @@
 |  LinkedIn  |  [Официальная документация LinkedIn для разработчиков](https://developer.linkedin.com/docs/authentication) | [LinkedIn API для JavaScript](https://developer.linkedin.com/docs/getting-started/javascript) <br> [Python-LinkedIn для Python](https://github.com/ozgur/python-linkedin) <br> [Spring Social LinkedIn для Java](https://docs.spring.io/spring-social-linkedin/docs/current/reference/html/) |
 | Microsoft  |  [Официальная документация Microsoft для разработчиков](https://docs.microsoft.com/en-us/azure/active-directory/develop/) | [Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/en-us/azure/active-directory/develop/msal-libraries) <br> [Microsoft Graph SDK для .NET](https://docs.microsoft.com/en-us/graph/sdks/sdks-overview) |
 
-Пожалуйста, обратите внимание, что ссылки могут потребовать актуализации в будущем, поэт
-
-ому рекомендуется использовать официальные источники документации провайдеров для получения наиболее актуальной информации о взаимодействии с oAuth.
