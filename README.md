@@ -9,7 +9,6 @@
 
 ## Задания:
 
-### Лабораторные работы:
 
 * [Задание 1. Получение сертификата Let's encrypt для Nginx (без Docker)](https://github.com/Buryackov-Ivan/AIT-6SEM-2023/blob/main/Task_1/Task_1.md)
 * [Задание 2. Скринкаст-отчет об установке докера и запуске статичного сайта или Node-приложения](https://github.com/Buryackov-Ivan/AIT-6SEM-2023/blob/main/Task_2/Task_2.md)
