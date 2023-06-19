@@ -11,11 +11,11 @@
 
 ### Лабораторные работы:
 
-* [Задание 1](https://github.com/Buryackov-Ivan/AIT-6SEM-2023/blob/main/Task_1/Task_1.md)
-* [Задание 2](https://github.com/Buryackov-Ivan/AIT-6SEM-2023/blob/main/Task_2/Task_2.md)
-* [Задание 3](https://github.com/Buryackov-Ivan/AIT-6SEM-2023/blob/main/Task_3/Task_3.md)
-* [Задание 4](https://github.com/Buryackov-Ivan/AIT-6SEM-2023/blob/main/Task_4/Task_4.md)
-* [Задание 5](https://github.com/Buryackov-Ivan/AIT-6SEM-2023/blob/main/Task_5/Task_5.md)
-* [Задание 6](https://github.com/Buryackov-Ivan/AIT-6SEM-2023/blob/main/Task_6/Task_6.md)
-* [Задание 7](https://github.com/Buryackov-Ivan/AIT-6SEM-2023/blob/main/Task_7/Task_7.md)
-* [Задание 8](https://github.com/Buryackov-Ivan/AIT-6SEM-2023/blob/main/Task_8/Task_8.md)
+* [Задание 1. Получение сертификата Let's encrypt для Nginx (без Docker)](https://github.com/Buryackov-Ivan/AIT-6SEM-2023/blob/main/Task_1/Task_1.md)
+* [Задание 2. Скринкаст-отчет об установке докера и запуске статичного сайта или Node-приложения](https://github.com/Buryackov-Ivan/AIT-6SEM-2023/blob/main/Task_2/Task_2.md)
+* [Задание 3. Docker BPR (Build & Push & Run)](https://github.com/Buryackov-Ivan/AIT-6SEM-2023/blob/main/Task_3/Task_3.md)
+* [Задание 4. Скринкаст Docker-Compose First Look](https://github.com/Buryackov-Ivan/AIT-6SEM-2023/blob/main/Task_4/Task_4.md)
+* [Задание 5. Настройка подключения к виртуальной частной сети](https://github.com/Buryackov-Ivan/AIT-6SEM-2023/blob/main/Task_5/Task_5.md)
+* [Задание 6. LetsEncrypt & Nginx Proxy](https://github.com/Buryackov-Ivan/AIT-6SEM-2023/blob/main/Task_6/Task_6.md)
+* [Задание 7. Список провайдеров oAuth](https://github.com/Buryackov-Ivan/AIT-6SEM-2023/blob/main/Task_7/Task_7.md)
+* [Задание 8. Реализация дополнительной стратегии oAuth 2.0](https://github.com/Buryackov-Ivan/AIT-6SEM-2023/blob/main/Task_8/Task_8.md)
